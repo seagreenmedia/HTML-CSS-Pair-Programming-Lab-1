@@ -7,34 +7,46 @@
 
 }*/
 
-.turtle{
+.turtle {
     background-color: black;
     color: darkorange;
     width: 100%;
-
-
-
 }
 
-.rat{
+.rat {
     background-color: black;
     color: white;
     height: 24px;
-
 }
 
-.brain{
+.brain {
     height: 100;
-    width: 240 ;
+    width: 240;
     top: 0;
     right: 0;
-
-
-
-
 }
 
-a{
-color: darkorange;
+a {
+    color: darkorange;
+}
 
+.column {
+    float: left;
+    width: 50%;
+}
+
+.columnB {
+    float: left;
+    width: 33%;
+    background-color: slategray;
+}
+
+.row {
+    margin-left: 1%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
