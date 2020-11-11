@@ -1,0 +1,40 @@
+/*.blackband{
+    background-color: black;
+    color: darkorange;
+    width: 100%;
+
+
+
+}*/
+
+.turtle{
+    background-color: black;
+    color: darkorange;
+    width: 100%;
+
+
+
+}
+
+.rat{
+    background-color: black;
+    color: white;
+    height: 24px;
+
+}
+
+.brain{
+    height: 100;
+    width: 240 ;
+    top: 0;
+    right: 0;
+
+
+
+
+}
+
+a{
+color: darkorange;
+
+}
